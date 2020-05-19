@@ -1,0 +1,27 @@
+//IF
+Check if a discount is applied depending on the price
+
+//IF ELESE
+Check if the quadratic formula can be applied
+
+//IF-ELSE IF -ELSE 
+Check if a number is positive,negative or zero
+
+//SWITCH
+Check what day of the week it is depending on th number given
+
+//EXTRA
+Check average of grades and check to see if passed
+Check if a number is 3 digits
+Check which number is greater
+
+
+//USANDO FOR
+Write a program in C++ to find the first 10 natural numbers
+Write a program in C++ to find the sum of first 10 natural numbers
+
+//USANDO WHILE
+Input a number as long as its not -1
+
+
+//W3RESOURCE EXCERCISE
