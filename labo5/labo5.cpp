@@ -5,6 +5,9 @@ using namespace std;
 
 int main(){
 
+/*
+    PROGRAMA QUE INDICA SI EL DISCRIMINANTE DE LA EC. CUAD. TIENE SOLUCION REAL O NO
+    */
     float a,b,c;
     cout<<"Ingrese los valores de a b y c: ";
     cin>>a>>b>>c;

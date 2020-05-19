@@ -4,6 +4,9 @@ using namespace std;
 
 int main(){
 
+    /*
+    PROGRAMA QUE VERIFICA SI UN NUMERO ES DE 3 DIGITOS O NO    
+    */
     int numero;
     cout<<"ingrese el numero: ";
     cin>>numero;

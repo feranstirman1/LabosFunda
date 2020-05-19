@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
+    /*
+    PROGRAMA QUE INDICA QUE DIA DE LA SEMANA ES UTILIZANDO SWITCH
+    */
 
     int diaSemana;
     cout << "Ingrese el numero del dia de la semana";

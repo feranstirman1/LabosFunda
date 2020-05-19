@@ -4,6 +4,9 @@ using namespace std;
 
 int main(){
 
+/**
+ * PROGRAMA QUE PIDE AL MENOS UNA VEZ EL NUMERO, Y NO TERMINA HASTA INGRESAR -1
+*/
     int num=-1;
     do
     {
